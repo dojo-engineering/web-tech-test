@@ -19,7 +19,7 @@ export interface Transaction {
 
 const mockTransactions = (count: number) => {
   faker.seed(0);
-  return new Array(count).fill(0).map<Transaction>((_) => ({
+  return new Array(count).fill(0).map<Transaction>(() => ({
     ref: faker.git.commitSha(),
     cardNumber: `**** ${faker.number
       .int({ min: 0, max: 9999 })
