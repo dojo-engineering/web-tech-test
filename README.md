@@ -21,7 +21,8 @@
 
 ### ACs
 
-- As a user, when I enter digits of my card number in the search field,
+- As a user, I can see all my transactions on the page.
+- As a user, when I enter digits in the search field, transactions are filtered.
 
 ### Starting the app
 
