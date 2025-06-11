@@ -23,12 +23,14 @@
 
 - As a user, I can see all my transactions on the page.
 - As a user, when I enter digits in the search field, transactions are filtered.
-- As a mobile user, the transactions are presented in a single column
-- As a desktop user, the transactions are presented as a grid
+- As a mobile user, the transactions are presented in a single column.
+- As a desktop user, the transactions are presented as a grid.
+- As a user, I can see a summary amount for all transactions today.
 
-### Starting the app
+### Setup
 
 ```bash
+yarn install
 yarn dev
 ```
 
