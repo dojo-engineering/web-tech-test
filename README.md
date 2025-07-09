@@ -17,7 +17,7 @@
 
 ### Design
 
-- [Figma Design](https://www.figma.com/design/Y4mmptgroZf7FtYCvIPDKW/Design-System-Eng-Task?node-id=2004-457&m=dev)
+- [Figma Design](https://www.figma.com/design/Y4mmptgroZf7FtYCvIPDKW/Design-System-Eng-Task?node-id=4129-1176&m=dev)
 
 ### ACs
 
