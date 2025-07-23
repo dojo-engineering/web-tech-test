@@ -34,7 +34,7 @@ const mockTransactions = (count: number) => {
     date: faker.date.recent(),
     amount: {
       currencyCode: "GBP",
-      value: 12.34,
+      value: faker.number.float({ min: 0.01, max: 999.99, fractionDigits: 2 }),
     },
   }));
 };
